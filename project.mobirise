@@ -611,6 +611,12 @@
               ".text-wrapper": {
                 "padding": "2rem"
               }
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-text": {
+              "text-align": "left"
             }
           },
           "_name": "image1",
