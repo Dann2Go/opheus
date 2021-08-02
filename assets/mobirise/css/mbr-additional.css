@@ -810,7 +810,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sEtc2OxBUn .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 6.8rem);
+    max-height: calc(98.5vh - 5.1rem);
   }
 }
 .cid-sEtc2OxBUn .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1198,8 +1198,8 @@ a {
   }
 }
 .cid-sEEyXHhFJX {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 4rem;
+  padding-bottom: 7rem;
   background-color: #dcc8bd;
 }
 .cid-sEEyXHhFJX .mbr-iconfont {
@@ -1372,7 +1372,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sEyZSBzNO4 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 6.8rem);
+    max-height: calc(98.5vh - 5.1rem);
   }
 }
 .cid-sEyZSBzNO4 .navbar.collapsed .dropdown-menu .dropdown-submenu {
