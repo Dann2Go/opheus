@@ -784,7 +784,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(75, 57, 57, 0.2);
+  background: rgba(75, 57, 57, 0.5);
 }
 .cid-sEtc2OxBUn .navbar.opened {
   transition: all 0.3s;
@@ -1346,7 +1346,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(75, 57, 57, 0.2);
+  background: rgba(75, 57, 57, 0.5);
 }
 .cid-sEyZSBzNO4 .navbar.opened {
   transition: all 0.3s;
