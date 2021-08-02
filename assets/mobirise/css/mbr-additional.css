@@ -810,7 +810,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sEtc2OxBUn .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.1rem);
+    max-height: calc(98.5vh - 3.6rem);
   }
 }
 .cid-sEtc2OxBUn .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1372,7 +1372,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sEyZSBzNO4 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.1rem);
+    max-height: calc(98.5vh - 3.6rem);
   }
 }
 .cid-sEyZSBzNO4 .navbar.collapsed .dropdown-menu .dropdown-submenu {
