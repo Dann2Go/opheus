@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Opheus",
+    "name": "Opheus - Criações finas",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -65,7 +65,7 @@
       "textButton": "Aceito"
     },
     "favicon": "@PROJECT_PATH@/assets/images/fav-3-128x128_1.png",
-    "mbrsiteDomain": "p61nneeebz",
+    "mbrsiteDomain": "u06glfxizs",
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "http://opheus.com.br",
@@ -76,8 +76,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Opheus",
-        "meta_descr": "",
+        "title": "Opheus - Pâtisserie e Chocolateria",
+        "meta_descr": "A Opheus criações traz novos conceitos de Pâtisserie e Chocolateria. Fazemos uma releitura do clássico e do contemporâneo com bastante personalidade.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
