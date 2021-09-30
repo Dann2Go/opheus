@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Opheus - Criações finas",
-    "currentPage": "page2.html",
+    "currentPage": "produtos.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1395,7 +1395,7 @@
         }
       ]
     },
-    "page2.html": {
+    "produtos.html": {
       "settings": {
         "title": "Produtos",
         "meta_descr": "",
