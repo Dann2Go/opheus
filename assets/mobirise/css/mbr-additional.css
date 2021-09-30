@@ -1691,26 +1691,10 @@ a {
 .cid-sEyZSDjjcj .media-container-row .mbr-text {
   text-align: center;
 }
-.cid-sEXHEJZPOj {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sEXHEJZPOj .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-sEXHEJZPOj form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-sEXHEJZPOj form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-sEXHEJZPOj form .mbr-section-btn .btn {
-    width: 100%;
-  }
+.cid-sKxr6aaZz1 {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
 .cid-sEXHEK7d4J {
   z-index: 1000;
