@@ -69,7 +69,7 @@
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "http://opheus.com.br",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "gdpr": false
   },
   "pages": {
